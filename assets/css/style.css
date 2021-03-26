@@ -749,9 +749,8 @@ footer h1{
     color: WHite;
     font-size: 18px;
     background-color: rgba(255, 0, 0, 0);
-    font-weight: 600;
+    font-weight: 400;
     font-family: 'Dosis', sans-serif;
-    text-transform: uppercase;
 }
 
 footer p{
