@@ -9,6 +9,18 @@
 
     
     <url>
+        <loc>https://www.shotflix.top/filmes/assistir-carga-bruta-online/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.85</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-mulan-online/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.85</priority>
+    </url>
+    
+    <url>
         <loc>https://www.shotflix.top/filmes/assistir-por-tras-da-inocencia-online/</loc>
         <changefreq>daily</changefreq>
         <priority>0.85</priority>
