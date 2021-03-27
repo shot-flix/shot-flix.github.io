@@ -2,4 +2,3 @@ User-agent: *
 Disallow: /filmes/page/
 Disallow: /categorias/
 Disallow: /search/
-Disallow: /
