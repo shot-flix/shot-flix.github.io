@@ -9,6 +9,24 @@
 
     
     <url>
+        <loc>https://www.shotflix.top/filmes/assistir-para-todos-os-garotos-agora-e-para-sempre-online/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.85</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-carros-3-online/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.85</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-thor-online/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.85</priority>
+    </url>
+    
+    <url>
         <loc>https://www.shotflix.top/filmes/assistir-homem-de-ferro-2-online/</loc>
         <changefreq>daily</changefreq>
         <priority>0.85</priority>
