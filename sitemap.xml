@@ -9,6 +9,24 @@
 
     
     <url>
+        <loc>https://www.shotflix.top/filmes/assistir-os-croods-2-uma-nova-era-online/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.85</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-a-ilha-da-fantasia-online/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.85</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-terror-na-ilha-online/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.85</priority>
+    </url>
+    
+    <url>
         <loc>https://www.shotflix.top/filmes/assistir-um-principe-em-nova-york-2-online/</loc>
         <changefreq>daily</changefreq>
         <priority>0.85</priority>
