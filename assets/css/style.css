@@ -1099,7 +1099,7 @@ footer p{
     font-size: 18px;
     color: var(--textColor);
 }
-.sinopse h3{
+.sinopse b{
     font-family: 'Source Sans Pro', Arial, sans-serif;
     padding: 10px 0;
     font-weight: 600;
