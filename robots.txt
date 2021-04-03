@@ -2,3 +2,5 @@ User-agent: *
 Disallow: /filmes/page/
 Disallow: /categorias/
 Disallow: /search/
+
+Sitemap: https://www.shotflix.top/sitemap.xml
