@@ -49,7 +49,7 @@
     <!--Cabeçalho-->
 <header>
     <div class="container-header">
-      <div class="logo"><a href="/"></a></div><!--logo-->
+      <div title="Shotflix - Assistir Filmes Online de graça" class="logo"><a href="/"></a></div><!--logo-->
       <div id="nav" class="nav search">
         <nav>
           <ul id="ul-header" style="list-style: none;">
@@ -84,7 +84,7 @@
 </header>
   <!--Fim cabeçalho-->
 
-    <main>
+    <main title="Assistir O Pequeno Órfão Online dublado - Shotflix">
         <div class="container">
             <div class="pagina-post" style="background-image: url('https://image.tmdb.org/t/p/original/4aFtD31RpP018y8XipTLrU8Y3pa.jpg');">
                 <div class="bg-pelicula">
@@ -220,7 +220,7 @@
     //     console.log('tagline ausente')
     //    } //Setar a tagline
        
-        document.getElementById('sinopse').innerHTML = objetoFilme[1] //Setar a sinopse
+        document.getElementById('sinopse').innerHTML = `<strong style="font-size: 17px;">${objetoFilme[0]}</strong> - ${objetoFilme[1]}` //Setar a sinopse
 
         document.getElementById('setCategorias').innerHTML = getCategorias()
 
