@@ -3,4 +3,8 @@ Disallow: /filmes/page/
 Disallow: /categorias/
 Disallow: /search/
 
+<<<<<<< HEAD
 Sitemap: https://www.shotflix.top/sitemap.xml
+=======
+Sitemap: https://www.shotflix.top/sitemap.xml
+>>>>>>> 7b7d2175f83ca5abba8eb28fba37ab1196a661a9
