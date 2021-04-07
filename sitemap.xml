@@ -9,6 +9,24 @@
 
     
     <url>
+        <loc>https://www.shotflix.top/filmes/assistir-monster-hunter-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-ak-47-a-arma-que-mudou-o-mundo-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-as-fantasias-de-nicolas-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://www.shotflix.top/filmes/assistir-apenas-diga-sim-online/</loc>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
