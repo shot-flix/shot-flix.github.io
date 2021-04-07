@@ -9,6 +9,24 @@
 
     
     <url>
+        <loc>https://www.shotflix.top/filmes/assistir-apenas-diga-sim-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-fuja-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-o-legionario-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://www.shotflix.top/filmes/assistir-na-mesma-onda-online/</loc>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
