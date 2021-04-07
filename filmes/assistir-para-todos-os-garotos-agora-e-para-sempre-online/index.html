@@ -263,7 +263,7 @@
     </script>
     
     <script>  //scripts de players
-         var player4='none';var player3='https://www.onifile.com/e/source/0102372911ccacd1397f5f8040582c242/26991';var player2='https://gdriveplayer.to/embed2.php?link=x5%252B6EBBZU1Ho1L5okRj%252BlQEMswJmB1VUVt3g9IggTfhS9zvY4aSnyyS73%252FTIKCysHON2RxAjkjnCwNJkgnak%252FcHi6%252FN5mSq7ve6AX9txP5zk5ve%252BKM1SsKE%252B3ZIqOUKOFrR5kDv8lD0fLBwvojvn4kLzuPLbOGmJEmwXo129KKaR%252FLfZQj4Ok9dJnPdGuBqy4ufGL9tCcmkMtJm%252BuZDxzJ%252FccnajkUay%252Bt6ocQkAz1czhMbd1hRPt30ywpwAVGp4U%253D';var player1='https://uptostream.com/iframe/s0nyb14fvket';
+         var player8='';player7='';player6='';player5='';player4='none';var player3='https://www.onifile.com/e/source/0102372911ccacd1397f5f8040582c242/26991';var player2='https://gdriveplayer.to/embed2.php?link=x5%252B6EBBZU1Ho1L5okRj%252BlQEMswJmB1VUVt3g9IggTfhS9zvY4aSnyyS73%252FTIKCysHON2RxAjkjnCwNJkgnak%252FcHi6%252FN5mSq7ve6AX9txP5zk5ve%252BKM1SsKE%252B3ZIqOUKOFrR5kDv8lD0fLBwvojvn4kLzuPLbOGmJEmwXo129KKaR%252FLfZQj4Ok9dJnPdGuBqy4ufGL9tCcmkMtJm%252BuZDxzJ%252FccnajkUay%252Bt6ocQkAz1czhMbd1hRPt30ywpwAVGp4U%253D';var player1='https://uptostream.com/iframe/s0nyb14fvket';
 
         const players = document.getElementById('players')
  
@@ -309,6 +309,42 @@
                                         <div class="pelicula"></div>
                                     </div>
                                     <p>PLAYER 4</p>
+                                </div>`
+        }
+        if (player5.length > 4) {
+            players.innerHTML += `<div class="container-player">
+                                    <div class="player" onclick="ClickPlayer('${player5}')" style="background-image: url('https://image.tmdb.org/t/p/w300/qjhcTGnjxYJqwBGlDzZkYWmne6e.jpg');">
+                                        <div class="play"></div>
+                                        <div class="pelicula"></div>
+                                    </div>
+                                    <p>PLAYER 5</p>
+                                </div>`
+        }
+        if (player6.length > 4) {
+            players.innerHTML += `<div class="container-player">
+                                    <div class="player" onclick="ClickPlayer('${player6}')" style="background-image: url('https://image.tmdb.org/t/p/w300/qjhcTGnjxYJqwBGlDzZkYWmne6e.jpg');">
+                                        <div class="play"></div>
+                                        <div class="pelicula"></div>
+                                    </div>
+                                    <p>PLAYER 6</p>
+                                </div>`
+        }
+        if (player7.length > 4) {
+            players.innerHTML += `<div class="container-player">
+                                    <div class="player" onclick="ClickPlayer('${player7}')" style="background-image: url('https://image.tmdb.org/t/p/w300/qjhcTGnjxYJqwBGlDzZkYWmne6e.jpg');">
+                                        <div class="play"></div>
+                                        <div class="pelicula"></div>
+                                    </div>
+                                    <p>PLAYER 7</p>
+                                </div>`
+        }
+        if (player8.length > 4) {
+            players.innerHTML += `<div class="container-player">
+                                    <div class="player" onclick="ClickPlayer('${player8}')" style="background-image: url('https://image.tmdb.org/t/p/w300/qjhcTGnjxYJqwBGlDzZkYWmne6e.jpg');">
+                                        <div class="play"></div>
+                                        <div class="pelicula"></div>
+                                    </div>
+                                    <p>PLAYER 8</p>
                                 </div>`
         }
 

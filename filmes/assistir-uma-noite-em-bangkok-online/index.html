@@ -263,7 +263,7 @@
     </script>
     
     <script>  //scripts de players
-         var player4='https://hdfog.club/video/playerfteste.php?url=My90dDEyMTkyMTkwL25vbmUvbm9uZQ==';var player3='https://uptostream.com/iframe/sg3slf5td8ly';var player2='https://hdfog.club/video/playerfteste.php?url=NS90dDEyMTkyMTkwL25vbmUvbm9uZQ==';var player1='https://www.onifile.com/e/source/0423a57a67a29daaf29dc221a71277352/26873';
+         var player8='';player7='';player6='';player5='';player4='https://hdfog.club/video/playerfteste.php?url=My90dDEyMTkyMTkwL25vbmUvbm9uZQ==';var player3='https://uptostream.com/iframe/sg3slf5td8ly';var player2='https://hdfog.club/video/playerfteste.php?url=NS90dDEyMTkyMTkwL25vbmUvbm9uZQ==';var player1='https://www.onifile.com/e/source/0423a57a67a29daaf29dc221a71277352/26873';
 
         const players = document.getElementById('players')
  
@@ -309,6 +309,42 @@
                                         <div class="pelicula"></div>
                                     </div>
                                     <p>PLAYER 4</p>
+                                </div>`
+        }
+        if (player5.length > 4) {
+            players.innerHTML += `<div class="container-player">
+                                    <div class="player" onclick="ClickPlayer('${player5}')" style="background-image: url('https://image.tmdb.org/t/p/w300/riDrpqQtZpXGeiJdlmfcwwPH7nN.jpg');">
+                                        <div class="play"></div>
+                                        <div class="pelicula"></div>
+                                    </div>
+                                    <p>PLAYER 5</p>
+                                </div>`
+        }
+        if (player6.length > 4) {
+            players.innerHTML += `<div class="container-player">
+                                    <div class="player" onclick="ClickPlayer('${player6}')" style="background-image: url('https://image.tmdb.org/t/p/w300/riDrpqQtZpXGeiJdlmfcwwPH7nN.jpg');">
+                                        <div class="play"></div>
+                                        <div class="pelicula"></div>
+                                    </div>
+                                    <p>PLAYER 6</p>
+                                </div>`
+        }
+        if (player7.length > 4) {
+            players.innerHTML += `<div class="container-player">
+                                    <div class="player" onclick="ClickPlayer('${player7}')" style="background-image: url('https://image.tmdb.org/t/p/w300/riDrpqQtZpXGeiJdlmfcwwPH7nN.jpg');">
+                                        <div class="play"></div>
+                                        <div class="pelicula"></div>
+                                    </div>
+                                    <p>PLAYER 7</p>
+                                </div>`
+        }
+        if (player8.length > 4) {
+            players.innerHTML += `<div class="container-player">
+                                    <div class="player" onclick="ClickPlayer('${player8}')" style="background-image: url('https://image.tmdb.org/t/p/w300/riDrpqQtZpXGeiJdlmfcwwPH7nN.jpg');">
+                                        <div class="play"></div>
+                                        <div class="pelicula"></div>
+                                    </div>
+                                    <p>PLAYER 8</p>
                                 </div>`
         }
 

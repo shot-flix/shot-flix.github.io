@@ -9,6 +9,12 @@
 
     
     <url>
+        <loc>https://www.shotflix.top/filmes/assistir-o-jardim-secreto-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://www.shotflix.top/filmes/assistir-monster-hunter-online/</loc>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
