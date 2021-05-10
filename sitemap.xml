@@ -9,6 +9,30 @@
 
     
     <url>
+        <loc>https://www.shotflix.top/filmes/assistir-vanquish-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-nao-feche-os-olhos-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-fatale-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.shotflix.top/filmes/assistir-monstro-online/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://www.shotflix.top/filmes/assistir-o-jardim-secreto-online/</loc>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
